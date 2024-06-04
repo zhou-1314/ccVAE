@@ -42,7 +42,7 @@ Thanks for all their contributors and maintainers!
 ## Citation
 If you have used ccVAE for your work, please consider citing:
 ```bibtex
-@misc{2024Garfield,
+@misc{2024ccVAE,
     title={ccVAE: A cell-cell paired Variational Auto Encoder for batch effect correction},
     author={Weige Zhou},
     howpublished = {\url{https://github.com/zhou-1314/ccVAE}},
