@@ -8,8 +8,8 @@
 Git clone and use `ccVAE` :
 
 ```
-git clone https://github.com/zhou-1314/Garfield.git
-cd Garfield
+git clone https://github.com/zhou-1314/ccVAE.git
+cd ccVAE
 ```
 
 ccVAE is implemented in [Pytorch](https://pytorch.org/) framework. 
