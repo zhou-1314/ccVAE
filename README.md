@@ -18,11 +18,11 @@ Note: we will consider uploading ccVAE algorithm into `pypi` in the future.
 
 ## Vignettes
 
-Example 1: Batch effect correction of simulated datasets using ccVAE [here](https://github.com/zhou-1314/ccVAE/tutorials/01.run_ccVAE-simulationData.ipynb).
+Example 1: Batch effect correction of simulated datasets using ccVAE [here](https://github.com/zhou-1314/ccVAE/blob/master/tutorials/01.run_ccVAE-simulationData.ipynb).
 
-Example 2: Batch effect correction of real Human Pancreas Dataset using ccVAE [here](https://github.com/zhou-1314/ccVAE/tutorials/02.run_ccVAE_panc8_all.ipynb).
+Example 2: Batch effect correction of real Human Pancreas Dataset using ccVAE [here](https://github.com/zhou-1314/ccVAE/blob/master/tutorials/02.run_ccVAE_panc8_all.ipynb).
 
-Example 3: Cell-cell mapping with ccVAE on real dataset [here](https://github.com/zhou-1314/ccVAE/tutorials/03.BM_thymus_mapping_with_ccVAE.ipynb).
+Example 3: Cell-cell mapping with ccVAE on real dataset [here](https://github.com/zhou-1314/ccVAE/blob/master/tutorials/03.BM_thymus_mapping_with_ccVAE.ipynb).
 
 
 
